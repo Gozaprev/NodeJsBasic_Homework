@@ -1,14 +1,21 @@
 import fs from "fs";
 import fsPromises from "fs/promises";
 
+const homeworkTextPath = "./homework.txt";
+
 console.log('****** SYNCRONOUS FILE SYSTEM OPERATIONS ******');
 
-fs.writeFileSync("./homework.txt", "Homework 02 in Basic Node");
+// Write to the file synchronously
+fs.writeFileSync(homeworkTextPath, "Homework 02 in Basic Node");
 
-const homeworkTextPath = "homework.txt";
+//fs.writeFileSync("./homework.txt", "Homework 02 in Basic Node"); - Bad practice
 
+// const homeworkTextPath = "homework.txt"; - Bad practice
+
+// Append to the file synchronously
 fs.appendFileSync(homeworkTextPath, "\nFINISHED!");
 
+// Read the file synchronously
 const homeworkTextContents = fs.readFileSync(homeworkTextPath, {encoding: 'utf8'});
 
 console.log(homeworkTextContents);
