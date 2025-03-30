@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "bookTitle": "To Kill a Mockingbird",
+    "isAvailable": true,
+    "genre": "Fiction",
+    "author": "Harper Lee",
+    "pages": 281
+  },
+  {
+    "id": "2",
+    "bookTitle": "1984",
+    "isAvailable": true,
+    "genre": "Dystopian",
+    "author": "George Orwell",
+    "pages": 328
+  },
+  {
+    "id": "3",
+    "bookTitle": "Pride and Prejudice",
+    "isAvailable": false,
+    "genre": "Romance",
+    "author": "Jane Austen",
+    "pages": 279
+  },
+  {
+    "id": "4",
+    "bookTitle": "Name",
+    "isAvailable": true,
+    "genre": "adventure",
+    "author": "John Doe",
+    "pages": 1000
+  },
+  {
+    "id": "uuid",
+    "bookTitle": "Name1",
+    "isAvailable": false,
+    "genre": "action",
+    "author": "Jane Doe",
+    "pages": 200
+  },
+  {
+    "id": "ede2bf51-b3bd-4770-9ec8-48435e870215",
+    "bookTitle": "Name1",
+    "isAvailable": false,
+    "genre": "action",
+    "author": "Jane Doe",
+    "pages": 200
+  },
+  {
+    "id": "{$guid}",
+    "bookTitle": "Name",
+    "isAvailable": true,
+    "genre": "adventure",
+    "author": "John Doe",
+    "pages": 1000
+  },
+  {
+    "id": "4e62697d-3164-4713-8835-69ee14dfb504",
+    "bookTitle": "Name",
+    "isAvailable": true,
+    "genre": "adventure",
+    "author": "John Doe",
+    "pages": 1000
+  },
+  {
+    "id": "8ef17382-cb7a-41f5-b536-869be1ceb6c5",
+    "bookTitle": "NameName",
+    "isAvailable": false,
+    "genre": "action",
+    "author": "Bob Bobski",
+    "pages": 532
+  },
+  {
+    "id": "68a30118-c662-4825-a7f2-919b5bc179a4",
+    "bookTitle": "NameName",
+    "isAvailable": false,
+    "genre": "action",
+    "author": "Bob Bobski",
+    "pages": 532
+  },
+  {
+    "id": "8c7bf339-d15b-46cb-a9ab-74b7fba4e4c1",
+    "bookTitle": "NameName",
+    "isAvailable": false,
+    "genre": "action",
+    "author": "Bob Bobski",
+    "pages": 532
+  },
+  {
+    "id": "56737eb6-b651-4803-b431-37c2d7ce1956",
+    "bookTitle": "Name Nameski",
+    "isAvailable": true,
+    "genre": "thriler",
+    "author": "Bob Bobski",
+    "pages": 543
+  },
+  {
+    "id": "dafc4628-ba35-4762-a2ca-62ddfb0ec2b9",
+    "bookTitle": "Name Nameski",
+    "isAvailable": false,
+    "genre": "thriler",
+    "author": "Bob Bobski",
+    "pages": 543
+  }
+]
